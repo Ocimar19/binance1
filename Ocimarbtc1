@@ -1,0 +1,3 @@
+stratum+tcp://sha256.poolbinance.com:443
+stratum+tcp://btc.poolbinance.com:1800
+stratum+tcp://bs.poolbinance.com:3333
